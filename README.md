@@ -1,9 +1,7 @@
-Find Authentic Product![image](https://github.com/user-attachments/assets/3e7a1b9a-cc29-4eb9-ba8d-5a7630afcb00)
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/72fdbb90-df56-4e92-9dbf-269eca5cfcb7" />
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/09800b60-e86d-4b99-af65-f54344e0f666" />
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/19599c38-4250-413a-b7c0-e37e1f14eaf4" />
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/6be947ff-82e4-4a8c-8f64-805eeba625f5" />
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/698d2404-3fc1-460a-a7d9-b5c07bda5a91" />
 
-![image](https://github.com/user-attachments/assets/bd60f527-ae33-4818-be81-f2729fdf0292)
-
-![image](https://github.com/user-attachments/assets/e2a8db20-15d8-4ba8-8a59-e23208b89d93)
-
-![image](https://github.com/user-attachments/assets/bcdf3eb0-a8b1-4181-a446-7a78f02970b8)
-
-![image](https://github.com/user-attachments/assets/f34580f2-ddcc-44f4-ba26-a2ad0bd2e54c)
+[User-Manual-Product Detector.pptx](https://github.com/user-attachments/files/22449589/User-Manual-Product.Detector.pptx)
